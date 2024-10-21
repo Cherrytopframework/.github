@@ -1,8 +1,6 @@
-# Hi there 👋
-
 # Cherrytopframework 🍒
 
-Welcome to the Cherrytopframework organization. This is where all the framework related application source code repositories can be found.
+Hi there 👋 Welcome to the Cherrytopframework organization. This is where all the framework related application source code repositories can be found.
 
 ## Documentation
 
